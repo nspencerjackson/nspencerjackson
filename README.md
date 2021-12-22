@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nspencerjackson
+- 👋 Hi, I’m Nick, though everyone just calls me SJ
 - 🏎 I’m interested in Sports [AFL, Tennis, Soccer, NFL, Baseball, and F1], Music, Adrenaline Activities
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Anything fun and interesting
