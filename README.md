@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nspencerjackson
-- 👀 I’m interested in Sports [AFL, Tennis, Soccer, NFL, Baseball, and F1], Music, Adrenaline Activities
+- 🏎 I’m interested in Sports [AFL, Tennis, Soccer, NFL, Baseball, and F1], Music, Adrenaline Activities
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Anything fun and interesting
 - 📫 Reach me at nspencerjackson@gmail.com
